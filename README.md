@@ -1,4 +1,4 @@
-# vue3-zhihu
+# vue3-zhihu-daily
 
 ## Project setup
 ```
