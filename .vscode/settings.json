@@ -1,0 +1,7 @@
+{
+  "vetur.format.scriptInitialIndent": true,
+  "vetur.format.styleInitialIndent": true,
+  "vetur.format.options.useTabs": true,
+  "vetur.format.defaultFormatter.html": "prettier",
+  "prettier.semi": false
+}
